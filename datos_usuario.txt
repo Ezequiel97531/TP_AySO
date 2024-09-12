@@ -1,1 +1,2 @@
 Usuario=liveuser
+CPU_MODEL=Intel(R) Core(TM) i5-7400 CPU @ 3.00GHz
