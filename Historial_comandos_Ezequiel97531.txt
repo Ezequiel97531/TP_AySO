@@ -1,0 +1,126 @@
+ssh-keygen
+cd
+ls
+cd ~/.ssh
+ls
+ssh-keygen
+cd ~/.ssh
+ls
+cat id_rsa.pub
+cat
+cat id_rsa.pub
+cd ~/.ssh
+ls *.pub
+cat id_ed25519.pub
+cat ~/.ssh/id_rsa.pub
+cat ~/.ssh/ed25519
+cat id_ed25519.pub
+cd
+mkdir repogit
+cd repogit
+git clone git@github.com:Ezequiel97531/TP_AySO.git
+ssh -T git@github.com
+it@github.com:Ezequiel97531/TP_AySO.git
+git clone git@github.com:Ezequiel97531/TP_AySO.git
+sudo apt update
+sudo apt install git
+sudo dnf install git
+git clone git@github.com:Ezequiel97531/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release
+man grep
+grep -i 'HOME_URL' /etc/os-release
+grep -i home_url /etc/os-release
+whoami
+echo "Usuario=$(whoami)"> datos_usuario.txt
+ls
+git add.
+git add
+git add .
+git config --global user.email "ezequielnandinest@gmail.com"
+git config --global user.name "Ezequiel97531
+git commit -m
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuario.txt"
+git status
+git config
+git 
+cpuinfo
+proc
+/proc
+ls
+cd
+proc
+/proc
+ls proc
+ls /proc
+cpuinfo
+cd proc
+cd /proc
+cpuinfo
+ls cpuinfo
+cd cpuinfo
+cd
+grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ':' -f 2 | xargs
+echo "CPU_MODEL=$"(grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | xargs)" >> datos_usuario.txt
+echo "CPU_MODEL=$(grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | xargs)" >> datos_usuario.txt
+git add datos_usuario.txt 
+git add datos_usuario.txt
+pwd
+ls
+cd repogit/TP_AySO/
+ls
+cat datos_usuario.txt
+ls
+cd
+cat datos_usuario.txt
+rm datos.usuario.txt
+cd
+ls
+rm datos_usuario.txt
+ls
+cd repogit/TP_AySO/
+ls
+[200~echo "CPU_MODEL=$(grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | xargs)" >> datos_usuario.txt
+~echo "CPU_MODEL=$(grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | xargs)" >> datos_usuario.txt
+echo "CPU_MODEL=$(grep 'model name' /proc/cpuinfo | head -n 1 | cut -d ":" -f 2 | xargs)" >> datos_usuario.txt
+ls
+cat datos_usuario.txt
+git add datos_usuario.txt
+git commit -m "feat: añadiendo informacion de CPU"
+grep 
+grep man
+grep -v 'nologin' /etc/passwd
+grep -v 'nologin' /etc/passwd | sort -t: -k7 > lista_ordenada 
+head -n 10 lista_ordenada > lista_ordenada 
+grep -v 'nologin' /etc/passwd | sort -t: -k7 | head -n 10 > lista_ordenada 
+cat lista_ordenada 
+git add lista_ordenada 
+git commit -m "ADD: Listado de usuarios ordenada"
+git status
+echo "tcpdump" > comando_dump_net 
+echo "Para realizar un dump de trafico de red, usa: tcpdump -i [INTERFACE] -w [ARCHIVO]" >> comando_dump_net
+ls
+cat comando_dump_net 
+git add comando_dump_net 
+git commit -m "ADD:Comando para capturar y analizar el trafico de red"
+cat <<EOL >> README.md
+cat README.md
+cat <<EOL >> README.md
+ Alumno: Ezequiel Nandin
+ Division: Division 112
+ EOL
+
+
+
+cat README.md
+
+cat README.md
+nano README.md
+cat README.md
+git add README.md
+git commit -m "docs: Actualizar README.md con nueva informacion sobre el alumno
+git coomit -m "docs: Actualizar README.md con nueva informacion sobre el alumno"
+git commit -m "docs: Actualizar README.md con nueva informacion sobre el alumno"
+history -a
